@@ -24,3 +24,7 @@ h1 {
   float: left;
   width: 73%;
 }
+.title {
+  color: black;
+  text-decoration: underline;
+}
