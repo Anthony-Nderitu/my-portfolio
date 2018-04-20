@@ -17,3 +17,10 @@ h1 {
 .hobbies {
   float: left;
 }
+.first {
+  float: left;
+}
+.img {
+  float: left;
+  width: 73%;
+}
