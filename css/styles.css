@@ -14,3 +14,6 @@ h1 {
   border: 5px solid white;
   margin: 5px;
 }
+.hobbies {
+  float: left;
+}
