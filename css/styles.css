@@ -31,3 +31,6 @@ h1 {
   font-weight: 900;
   font-style: italic;
 }
+h2 {
+  text-decoration: underline;
+}
